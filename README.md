@@ -5,11 +5,11 @@ Hack for cs 1.6 mobile
 OG Client is a CSQQ based cheat apk.
 
 ## OG Client features
-1. The "aim" command has been changed to the "ogc" command.  In this way, it will continue to work on some cheat-protected servers.
+- The "aim" command has been changed to the "ogc" command.  In this way, it will continue to work on some cheat-protected servers.
 
-2. wallhack works fine compared to other CSQQ apks.
+- wallhack works fine compared to other CSQQ apks.
 
-3. servers are visible compared to other CSQQ apks.
+- servers are visible compared to other CSQQ apks.
 
 ## ogclient.cfg content
 ```
