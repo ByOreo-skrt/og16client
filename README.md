@@ -32,40 +32,4 @@ ogc_wh_offset 1.3
 
 ### Credits
 hasandramali
-Kelly Bailey
-Ted Backman
-Julie Bazuzi
-Yahn Bernier
-Ken Birdwell
-Steve Bond
-Dario Casali
-Greg Coomer
-Andrew Coward
-Wes Cumberland
-Ken Eaton
-Matt Eslick
-John Guthrie
-Mona Lisa Guthrie
-Mike Harrington
-Monica Harrington
-Brett Johnson
-Erik Johnson
-Chuck Jones
-Phil Kuhlmey
-Marc Laidlaw
-Karen Laur
-Dave Lee
-Miene Lee
-Randy Lundeen
-Gabe Newell
-Yatsze Mark
-Lisa Mennet
-Cade Myers
-Kate Powell
-Torsten Reinl
-Dave Riller
-Jay Stelly
-Harry Teasley 
-Steve Theodore
-Bill Van Buren
-Douglas R. Wood
+
