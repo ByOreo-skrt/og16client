@@ -2,7 +2,7 @@
 Hack for cs 1.6 mobile
 
 ## What is OG Client?
-OG Client is a CSQQ based cheat apk.
+OG Client is a CSQQ based personalized cheat apk.
 
 ## OG Client features
 - The "aim" command has been changed to the "ogc" command.  In this way, it will continue to work on some cheat-protected servers.
@@ -29,3 +29,4 @@ ogc_wh_offset 1.3
 
 ## Download
 [og16client](https://github.com/ByOreo-skrt/og16client/releases)
+
